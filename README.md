@@ -1,7 +1,7 @@
-GestForYou
+GestForYou  
 Application Web de gestion des formations du personnel
 
-##Technos
+## Technos
 - Nest  
 - React  
 - TypeScript  
